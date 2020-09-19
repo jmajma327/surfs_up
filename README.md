@@ -20,3 +20,5 @@ The purpose was to analyze weather trends for an up and coming to  surf shop/ice
 •	There is not a large difference between the two months. The difference in precipitation amount is less than 0.1 apart.
 
 •	The data shows us that Oahu is a great location to have a surf and ice cream shop. It warm and dry weather.
+
+![](https://github.com/jmajma327/surfs_up/blob/master/June%20Percip.png)   ![](https://github.com/jmajma327/surfs_up/blob/master/December%20Precip.png)
