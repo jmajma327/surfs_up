@@ -4,9 +4,13 @@ The purpose was to analyze weather trends for an up and coming to  surf shop/ice
 ## Results
 •	The data for June shows  that the temperatures throughout the year ranges from 64-85 degrees, with an average temperature of 75 degrees.
 
+![](https://github.com/jmajma327/surfs_up/blob/master/June%20Temps..png)
+
 •	The results for December shows that the temperatures throughout the year ranges from 56-83 degrees, with an average temperature of 71 degrees.
 
 •	There is only a 4 degrees difference in temperature between the month of June and December. This is still warm enough and good for an ice scream and surf shop business.
+![](https://github.com/jmajma327/surfs_up/blob/master/December%20Temps.png)
+
 
 ## Summary
 •	The average temperatures in June and December are 75 and 71 degrees.
